@@ -1,0 +1,2 @@
+# flaksweekto
+belajar flaks
